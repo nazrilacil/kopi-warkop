@@ -4,7 +4,7 @@
 <p>Hanya untuk hiburan saja</p>
 <img src="https://i.pinimg.com/1200x/2c/b1/b8/2cb1b841e984477b6a54ac9a5ac9c65b.jpg"/>
   <br>
-<a href="https://cilboy04.github.io/kopi-warkop/"><strong>➥ Try it now</strong></a>
+<a href="https://nazrilacil.github.io/kopi-warkop/"><strong>➥ Try it now</strong></a>
 </div>
 
 ## suport-me
